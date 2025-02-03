@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mycode\\asp.net\\flowers-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|c:\\mycode\\asp.net\\flowers-api\\flowers-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|solutionrelative:flowers-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|c:\\mycode\\asp.net\\flowers-api\\flowers-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|solutionrelative:flowers-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|c:\\mycode\\asp.net\\flowers-api\\flowers-api\\flowers\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|solutionrelative:flowers-api\\flowers\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|c:\\mycode\\asp.net\\flowers-api\\flowers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|solutionrelative:flowers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|c:\\mycode\\asp.net\\flowers-api\\flowers-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|solutionrelative:flowers-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|c:\\mycode\\asp.net\\flowers-api\\flowers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|solutionrelative:flowers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|c:\\mycode\\asp.net\\flowers-api\\flowers-api\\flowers-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1FB973C-4ADA-4224-93B7-BA6975C98DEB}|flowers-api\\flowers-api.csproj|solutionrelative:flowers-api\\flowers-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "flowers-api\\WeatherForecast.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\WeatherForecast.cs",
+              "RelativeToolTip": "flowers-api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:59:21.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\appsettings.json",
+              "RelativeDocumentMoniker": "flowers-api\\appsettings.json",
+              "ToolTip": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\appsettings.json",
+              "RelativeToolTip": "flowers-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T12:59:05.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSchema.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeDocumentMoniker": "flowers-api\\Data\\Migrations\\CreateSchema.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeToolTip": "flowers-api\\Data\\Migrations\\CreateSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:55:43.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "flowers-api\\Data\\Migrations\\AppDbContext.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeToolTip": "flowers-api\\Data\\Migrations\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:54:13.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\Program.cs",
+              "RelativeDocumentMoniker": "flowers-api\\Program.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\Program.cs",
+              "RelativeToolTip": "flowers-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:53:13.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\Flowers\\Models\\Flower.cs",
+              "RelativeDocumentMoniker": "flowers-api\\Flowers\\Models\\Flower.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\Flowers\\Models\\Flower.cs",
+              "RelativeToolTip": "flowers-api\\Flowers\\Models\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:27:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "flowers-api",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\flowers-api.csproj",
+              "RelativeDocumentMoniker": "flowers-api\\flowers-api.csproj",
+              "ToolTip": "C:\\mycode\\asp.net\\flowers-api\\flowers-api\\flowers-api.csproj",
+              "RelativeToolTip": "flowers-api\\flowers-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T11:26:35.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
