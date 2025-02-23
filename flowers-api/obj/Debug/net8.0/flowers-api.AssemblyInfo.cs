@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("flowers-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62a7422ef737840a7e6da4dc718188da96820ef0")]
 [assembly: System.Reflection.AssemblyProductAttribute("flowers-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("flowers-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

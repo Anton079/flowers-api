@@ -13,7 +13,7 @@ namespace flowers_api.Data.Migrations
 
         public override void Up()
         {
-            Create.Table("user")
+            Create.Table("flower")
                 .WithColumn("id").AsInt32().PrimaryKey().Identity()
                 .WithColumn("type").AsString(120).NotNullable()
                 .WithColumn("price").AsInt32().NotNullable()

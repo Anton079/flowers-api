@@ -97,3 +97,4 @@ C:\mycode\asp.net\flowers-api\flowers-api\obj\Debug\net8.0\refint\flowers-api.dl
 C:\mycode\asp.net\flowers-api\flowers-api\obj\Debug\net8.0\flowers-api.pdb
 C:\mycode\asp.net\flowers-api\flowers-api\obj\Debug\net8.0\flowers-api.genruntimeconfig.cache
 C:\mycode\asp.net\flowers-api\flowers-api\obj\Debug\net8.0\ref\flowers-api.dll
+C:\mycode\asp.net\flowers-api\flowers-api\obj\Debug\net8.0\flowers-api.sourcelink.json

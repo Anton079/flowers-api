@@ -10,6 +10,6 @@ namespace flowers_api.Data.Migrations
 
         }
 
-        public virtual DbSet<Flower> Flower { get; set; }
+        public virtual DbSet<Flower> Flowers { get; set; }
     }
 }
