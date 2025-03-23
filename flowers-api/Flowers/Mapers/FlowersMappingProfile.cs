@@ -8,7 +8,9 @@ namespace flowers_api.Flowers.Mapers
     {
         public FlowersMappingProfile()
         {
-            CreateMap<FlowerRequest, Flower>();
+            CreateMap<AddFlowerRequest, Flower>();
+            CreateMap<EditFlowerRequest, Flower>();
+            CreateMap<DeleteFlowerRequest, Flower>();
             CreateMap<Flower, FlowerResponse>();
         }
     }

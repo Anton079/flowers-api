@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using FluentMigrator.Runner;
 using flowers_api.Data.Migrations;
 using flowers_api.Flowers.Repository;
+using flowers_api.Flowers.Service;
 
 public class Program
 {
@@ -28,6 +29,8 @@ public class Program
         new MySqlServerVersion(new Version(8, 0, 21))));
 
         builder.Services.AddScoped<IFlowerRepo, FlowerRepo>();
+        builder.Services.AddScoped<IFLowerCommandService, FlowerCommandService>();
+        builder.Services.AddScoped<IFlowerQueryService, FlowerQueryService>();
 
         builder.Services.AddFluentMigratorCore()
             .ConfigureRunner(rb => rb.AddMySql5()

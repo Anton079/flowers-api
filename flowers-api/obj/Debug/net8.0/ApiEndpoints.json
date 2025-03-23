@@ -18,5 +18,88 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "flowers_api.Flowers.Controller.FlowerController",
+    "Method": "AddFlower",
+    "RelativePath": "api/v1/Flower/addFlower",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flowerReq",
+        "Type": "flowers_api.Flowers.Dtos.AddFlowerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "flowers_api.Flowers.Dtos.FlowerResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "flowers_api.Flowers.Controller.FlowerController",
+    "Method": "DeleteFlowerById",
+    "RelativePath": "api/v1/Flower/deleteFlower",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "flowers_api.Flowers.Dtos.FlowerResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "flowers_api.Flowers.Controller.FlowerController",
+    "Method": "UpdateFlower",
+    "RelativePath": "api/v1/Flower/UpdateFlower",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "flowerReq",
+        "Type": "flowers_api.Flowers.Dtos.EditFlowerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "flowers_api.Flowers.Dtos.FlowerResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
